@@ -2,4 +2,4 @@
 
 pip install -r requirements.txt  --> install dependencies for testing
 
-pytest requests_test.py --> run tests
+>pytest requests_test.py -v --> run tests
