@@ -1,1 +1,5 @@
-# Crud_requests
+## Crud_requests
+
+pip install -r requirements.txt  --> install dependencies for testing
+
+pytest requests_test.py --> run tests
